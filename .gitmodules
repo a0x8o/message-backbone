@@ -1,0 +1,30 @@
+[submodule "kafka-rest"]
+	path = kafka-rest
+	url = git@github.com:axbaretto/kafka-rest.git
+[submodule "kafka-rest-node"]
+	path = kafka-rest-node
+	url = git@github.com:axbaretto/kafka-rest-node.git
+[submodule "kafka-rest-utils"]
+	path = kafka-rest-utils
+	url = git@github.com:axbaretto/kafka-rest-utils.git
+[submodule "kafka-examples"]
+	path = kafka-examples
+	url = git@github.com:axbaretto/kafka-examples.git
+[submodule "kafka-ansible"]
+	path = kafka-ansible
+	url = git@github.com:axbaretto/kafka-ansible.git
+[submodule "kafka"]
+	path = kafka
+	url = git@github.com:axbaretto/kafka.git
+[submodule "kafka-connect-hdfs"]
+	path = kafka-connect-hdfs
+	url = git@github.com:axbaretto/kafka-connect-hdfs.git
+[submodule "kafka-connect-jdbc"]
+	path = kafka-connect-jdbc
+	url = git@github.com:axbaretto/kafka-connect-jdbc.git
+[submodule "kafka-connect-storage-cloud"]
+	path = kafka-connect-storage-cloud
+	url = git@github.com:axbaretto/kafka-connect-storage-cloud.git
+[submodule "kafka-connect-storage-common"]
+	path = kafka-connect-storage-common
+	url = git@github.com:axbaretto/kafka-connect-storage-common.git
