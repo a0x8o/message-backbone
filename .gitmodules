@@ -28,3 +28,9 @@
 [submodule "kafka-connect-storage-common"]
 	path = kafka-connect-storage-common
 	url = git@github.com:axbaretto/kafka-connect-storage-common.git
+[submodule "kafka-go"]
+	path = kafka-go
+	url = git@github.com:axbaretto/kafka-go.git
+[submodule "kafka-python"]
+	path = kafka-python
+	url = git@github.com:axbaretto/kafka-python.git
